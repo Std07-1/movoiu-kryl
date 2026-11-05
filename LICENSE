@@ -1,0 +1,50 @@
+Мовою крил
+Copyright (c) 2026 Std07-1 (Stanislav). Усі права застережено. All rights reserved.
+
+УКРАЇНСЬКОЮ
+
+Можна:
+- дивитися твір і читати його код;
+- ставити шпалери на власні пристрої;
+- ділитися посиланням на цей репозиторій;
+- змінювати приховане послання (масив SECRET) у своїй копії для власних пристроїв
+  або особистого некомерційного подарунка, якщо ім'я автора лишається в коді незмінним.
+
+Без письмової згоди автора не можна:
+- прибирати чи підміняти ім'я автора або видимий підпис, видавати твір чи його частину за свій;
+- продавати твір або використовувати його в комерційних цілях;
+- поширювати інші змінені версії;
+- копіювати код чи його частини або використовувати їх, зокрема через інструменти штучного інтелекту,
+  щоб створити чи згенерувати власну версію або похідний твір. Дозволена вище заміна послання
+  до цього не належить.
+
+Перегляд і форк цього репозиторію на GitHub дозволяють умови користування GitHub.
+Інших прав форк не надає.
+
+ENGLISH
+
+You may:
+- view this work and read its code;
+- use the wallpapers on your own devices;
+- share a link to this repository;
+- change the hidden message (the SECRET array) in your own copy, for your own devices
+  or as a personal non-commercial gift, provided the author's name stays in the code unchanged.
+
+Without the author's written permission you may not:
+- remove or replace the author's name or the visible signature, or present the work or any part of it
+  as your own;
+- sell the work or use it commercially;
+- distribute any other modified version;
+- copy the code or any part of it, or use it, including through artificial intelligence tools, to create
+  or generate your own version or a derivative work. Changing the message as permitted above is not
+  covered by this restriction.
+
+Viewing and forking this repository on GitHub are permitted by the GitHub Terms of Service.
+A fork grants no other rights.
+
+FONT
+
+JetBrains Mono, embedded in the HTML files, is (c) The JetBrains Mono Project Authors and is
+licensed under the SIL Open Font License 1.1 (docs/files/OFL.txt). The terms above do not apply to the font.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
